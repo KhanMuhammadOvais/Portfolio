@@ -1,6 +1,6 @@
 # Portfolio
 
-# Project 1 - Bank Churn Prediction 
+# [Project 1 - Bank Churn Prediction](https://github.com/KhanMuhammadOvais/Portfolio/tree/main/Bank%20Churn%20Management)
  - The main goal of the project is to identify potential reasons behind customer attrition at the bank, and to predict future customers who might leave, that that will allow the bank to be creative and proactive in their engagement with the customers.
  - As a data objective, we would ideally also like to idenfify the machine learning algorithm that has the best accuracy and what are some of the most important factors considered by the algorithm.
  - Performed EDA and identified some indicators and red flags that can be used as signals to highlights customers that might churn. 
