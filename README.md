@@ -6,4 +6,5 @@
  - Ran linear (Logistic Regression, SVM) and Non Linear models (Decision Trees, Random Forest, Catboost) to select model with best Accuracy and Recall score. 
  - Optimizing and Hyperparameter tuning for the best models, using Grid Search CV to further improve the model performance. 
  - Built a client facing dashboard using Power BI, to track the most important feature and metrics from the modeling and EDA conclusions. 
+ 
  ![png](https://github.com/KhanMuhammadOvais/Portfolio/blob/main/images/project1img.png) 
