@@ -7,4 +7,4 @@
  - Optimizing and Hyperparameter tuning for the best models, using Grid Search CV to further improve the model performance. 
  - Built a client facing dashboard using Power BI, to track the most important feature and metrics from the modeling and EDA conclusions. 
  
- ![](/images/project1img.png) 
+ ![](/images/project1.jpg) 
